@@ -10,11 +10,13 @@ Console Progress Bar percentege in Java runtime
 The main for is an example for 10 steps
   
   for (int i = 0; i <= 10; i ++) {
+  
             barProgress(i, 10);
             try {
                 Thread.sleep(500);
             } catch (Exception e) {
             }
+            
         }
         
 # USAGE
