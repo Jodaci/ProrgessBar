@@ -16,6 +16,7 @@ The main for is an example for 10 steps
             } catch (Exception e) {
             }
         }
+        
 #USAGE
 
 barProgress(i, 10);
