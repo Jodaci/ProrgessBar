@@ -1,6 +1,7 @@
 # ProrgessBar
 Console Progress Bar percentege in Java runtime
 
+```
 [----------] 0%
 [*---------] 10%
 [*****-----] 50%
@@ -9,7 +10,7 @@ Console Progress Bar percentege in Java runtime
 
 The main for is an example for 10 steps
   
-```
+
   for (int i = 0; i <= 10; i ++) {
             barProgress(i, 10);
             try {
