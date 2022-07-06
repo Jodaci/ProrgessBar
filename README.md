@@ -17,7 +17,7 @@ The main for is an example for 10 steps
             }
         }
         
-#USAGE
+# USAGE
 
 barProgress(i, 10);
 
