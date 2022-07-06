@@ -1,2 +1,17 @@
 # ProrgessBar
-Console Progress Bar percentege in Java
+Console Progress Bar percentege in Java runtime
+
+[----------] 0%
+[*---------] 10%
+[*****-----] 50%
+[**********] 100%
+
+
+The main for is an example for 10 steps
+
+*USAGE
+
+barProgress(i, 10);
+
+- i = the step where is the process
+- 10 = the total steps for the process
